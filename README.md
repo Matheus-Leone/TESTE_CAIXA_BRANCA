@@ -52,7 +52,7 @@ Nenhum usuário encontrado
 
 ---
 
-## 📌 3. Fluxo de Grafo (PNG)
+## 📌 3. Grafo de Fluxo (PNG)
 
 O Grafo de fluxo utilizado para a representar o código.
 
