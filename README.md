@@ -57,9 +57,7 @@ O grafo de fluxo utilizado para a análise está disponível em:
 
 📎 **`fluxo_grafo.png`**
 
-![Fluxo de Grafo](fluxo_grafo.png)
-
-> *(Substitua o nome do arquivo pelo que você subir no seu repositório.)*
+![Fluxo de Grafo](FluxodeGrafo.png)
 
 ---
 
@@ -69,9 +67,8 @@ Também foi utilizada uma planilha para organização dos cálculos e caminhos.
 
 📎 **`planilha_analise.png`**
 
-![Print da Planilha](planilha_analise.png)
+![Print da Planilha](PlanilhaCaixaBranca.png)
 
-> *(Substitua pelo nome correto do arquivo.)*
 
 
 ## ✨ Autor
