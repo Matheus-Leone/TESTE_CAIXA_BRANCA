@@ -11,13 +11,13 @@ Onde:
 - **E** = número de Arestas  
 - **N** = número de Nós  
   
-M = 9 - 9 + 2*1
+  M = 9 - 9 + 2 * 1
 
-M = 9 - 9 + 2
+  M = 9 - 9 + 2
 
-M = 9 - 11
-
-M = 2
+  M = 9 - 11
+  
+  M = 2
 
 
 Esse valor indica que o código possui 2 caminhos independentes.
@@ -26,15 +26,28 @@ Esse valor indica que o código possui 2 caminhos independentes.
 
 ## 📌 2. Caminhos Básicos
 
-Com base na Complexidade Ciclomática, foram identificados os **caminhos linearmente independentes**, essenciais para garantir cobertura lógica completa.
+Com base na Complexidade Ciclomática, foram identificados os 2 independentes.
 
-### **✔ Caminhos identificados**
-1. **Caminho 1:** (substituir pelo caminho encontrado)  
-2. **Caminho 2:**  
-3. **Caminho 3:**  
-4. ... até **Z caminhos**
+**CAMINHO BÁSICO 1**
 
-> Cada caminho cobre pelo menos um ramo único do grafo, garantindo independência lógica.
+1 → 2 → 3 → 4 → 5 → 6 → 7 → 8
+
+  O usuário existe no banco
+
+  O IF é verdadeiro
+
+  Variáveis result e nome são atualizadas
+
+
+**CAMINHO BÁSICO 2**
+
+1 → 2 → 3 → 4 → 5 → 6 → 8
+
+Nenhum usuário encontrado
+
+  O IF é falso
+
+  Não entra no bloco TRUE
 
 ---
 
