@@ -73,48 +73,6 @@ Também foi utilizada uma planilha para organização dos cálculos e caminhos.
 
 > *(Substitua pelo nome correto do arquivo.)*
 
----
-
-
-Esse valor indica que o programa/fluxo possui **Z caminhos independentes**, ou seja, são necessários pelo menos **Z testes** para cobertura total de caminhos.
-
----
-
-## 📌 2. Caminhos Básicos
-
-Com base na Complexidade Ciclomática, foram identificados os **caminhos linearmente independentes**, essenciais para garantir cobertura lógica completa.
-
-### **✔ Caminhos identificados**
-1. **Caminho 1:** (substituir pelo caminho encontrado)  
-2. **Caminho 2:**  
-3. **Caminho 3:**  
-4. ... até **Z caminhos**
-
-> Cada caminho cobre pelo menos um ramo único do grafo, garantindo independência lógica.
-
----
-
-## 📌 3. Fluxo de Grafo (PNG)
-
-O grafo de fluxo utilizado para a análise está disponível em:
-
-📎 **`fluxo_grafo.png`**
-
-![Fluxo de Grafo](fluxo_grafo.png)
-
-> *(Substitua o nome do arquivo pelo que você subir no seu repositório.)*
-
----
-
-## 📌 4. Planilha de Apoio
-
-Também foi utilizada uma planilha para organização dos cálculos e caminhos.
-
-📎 **`planilha_analise.png`**
-
-![Print da Planilha](PlanilhaCaixaBranca.png)
-
-
 
 ## ✨ Autor
 
