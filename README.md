@@ -17,23 +17,22 @@ Este repositório contém a análise de um fluxo de grafo utilizado para estudo 
 A **Complexidade Ciclomática (CC)** é uma métrica usada para mensurar a complexidade lógica de um algoritmo ou fluxo, indicando a quantidade mínima de testes necessários para garantir cobertura total das decisões.
 
 ### **Fórmula utilizada**
-CC = E - N + 2
+M = E - N + 2
 
 Onde:  
-- **E** = número de arestas  
-- **N** = número de nós  
+- **E** = número de Arestas  
+- **N** = número de Nós  
+  
+M = 9 - 9 + 2*1
 
-Após a interpretação do grafo de fluxo, foi identificado que:
+M = 9 - 9 + 2
 
-- Número de nós (N): **X**
-- Número de arestas (E): **Y**
+M = 9 - 11
 
-### **✔ Resultado**
-A complexidade ciclomática encontrada foi:
-CC = Z
+M = 2
 
 
-Esse valor indica que o programa/fluxo possui **Z caminhos independentes**, ou seja, são necessários pelo menos **Z testes** para cobertura total de caminhos.
+Esse valor indica que o código possui 2 caminhos independentes.
 
 ---
 
@@ -53,7 +52,7 @@ Com base na Complexidade Ciclomática, foram identificados os **caminhos linearm
 
 ## 📌 3. Fluxo de Grafo (PNG)
 
-O grafo de fluxo utilizado para a análise está disponível em:
+O Grafo de fluxo utilizado para a representar o código.
 
 📎 **`fluxo_grafo.png`**
 
@@ -61,9 +60,9 @@ O grafo de fluxo utilizado para a análise está disponível em:
 
 ---
 
-## 📌 4. Planilha de Apoio
+## 📌 4. Planilha de Teste
 
-Também foi utilizada uma planilha para organização dos cálculos e caminhos.
+Foi utilizada uma planilha no Excel para responder perguntas relevantes para a análise do código
 
 📎 **`planilha_analise.png`**
 
@@ -73,7 +72,8 @@ Também foi utilizada uma planilha para organização dos cálculos e caminhos.
 
 ## ✨ Autor
 
-Realizado por Matheus Leone RA 248206
+Realizado por Matheus Leone Rosa Evangelista
+RA #248206
 
 
 
