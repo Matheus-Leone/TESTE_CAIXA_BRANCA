@@ -112,7 +112,7 @@ Também foi utilizada uma planilha para organização dos cálculos e caminhos.
 
 📎 **`planilha_analise.png`**
 
-![Print da Planilha](<img width="1653" height="557" alt="PlanilhaCaixaBranca" src="https://github.com/user-attachments/assets/69374903-9f56-42d9-9207-9717f8df26db" />)
+![Print da Planilha](PlanilhaCaixaBranca.png)
 
 
 
