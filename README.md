@@ -2,7 +2,7 @@
 
 ## 📌 1. Complexidade Ciclomática
 
-A **Complexidade Ciclomática (CC)** é uma métrica usada para mensurar a complexidade lógica de um algoritmo ou fluxo, indicando a quantidade mínima de testes necessários para garantir cobertura total das decisões.
+A Complexidade Ciclomática (CC) foi realizada com base no código apresentado para realização de análise
 
 ### **Fórmula utilizada**
 M = E - N + 2
@@ -27,7 +27,7 @@ Esse valor indica que o código possui 2 caminhos independentes.
 
 ## 📌 2. Caminhos Básicos
 
-Com base na Complexidade Ciclomática, foram identificados os 2 independentes.
+Com base na Complexidade Ciclomática, foram identificados os 2 caminhos independentes.
 
 **CAMINHO BÁSICO 1**
 
@@ -76,8 +76,4 @@ Foi utilizada uma planilha no Excel para responder perguntas relevantes para a a
 
 Realizado por Matheus Leone Rosa Evangelista
 RA #248206
-
-
-
-
 
