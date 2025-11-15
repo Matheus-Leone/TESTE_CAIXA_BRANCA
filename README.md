@@ -10,7 +10,8 @@ M = E - N + 2
 Onde:  
 - **E** = número de Arestas  
 - **N** = número de Nós  
-  
+- **P** = número de Componentes Conectadps
+    
   M = 9 - 9 + 2 * 1
 
   M = 9 - 9 + 2
