@@ -112,26 +112,13 @@ Também foi utilizada uma planilha para organização dos cálculos e caminhos.
 
 📎 **`planilha_analise.png`**
 
-![Print da Planilha](planilha_analise.png)
-
-> *(Substitua pelo nome correto do arquivo.)*
-
----
+![Print da Planilha](<img width="1653" height="557" alt="PlanilhaCaixaBranca" src="https://github.com/user-attachments/assets/69374903-9f56-42d9-9207-9717f8df26db" />)
 
 
----
-
-## 📚 Referências
-
-- McCabe, T. J. *A Complexity Measure*. IEEE Transactions on Software Engineering, 1976.  
-- Pressman, R. *Engenharia de Software*.  
-
----
 
 ## ✨ Autor
 
-Projeto desenvolvido por **[Seu Nome]**, para fins de estudo e documentação de testes estruturais.
-
+Realizado por Matheus Leone RA 248206
 
 
 
