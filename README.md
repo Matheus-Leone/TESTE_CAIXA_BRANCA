@@ -1,17 +1,5 @@
 # TESTE_CAIXA_BRANCA
 
-
-# 📊 Análise Estrutural – Complexidade Ciclomática e Caminhos Básicos
-
-Este repositório contém a análise de um fluxo de grafo utilizado para estudo de **Testes de Caixa Branca**, incluindo:
-
-- Cálculo da **Complexidade Ciclomática**
-- Identificação dos **Caminhos Básicos**
-- **Fluxo de Grafo** em formato PNG
-- **Planilha de apoio** utilizada na análise
-
----
-
 ## 📌 1. Complexidade Ciclomática
 
 A **Complexidade Ciclomática (CC)** é uma métrica usada para mensurar a complexidade lógica de um algoritmo ou fluxo, indicando a quantidade mínima de testes necessários para garantir cobertura total das decisões.
